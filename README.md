@@ -1,6 +1,6 @@
 ### Hi!
 
-I'm a full-stack web developer currently seeking a full-time position.
+I'm a full-stack web developer currently seeking a full-time or contract work.
 
 ### Check out my sequencer project at https://simple-sequencer.onrender.com/
 
