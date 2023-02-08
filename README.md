@@ -1,6 +1,6 @@
 ### Hi!
 
-### I'm a full-stack web developer currently seeking a full-time or contract work.
+### I'm a full-stack web developer currently seeking full-time or contract work.
 
 ### Check out my Simple Sequencer, a virtual music sequencer made with React, at https://simple-sequencer.onrender.com/
 
