@@ -4,7 +4,7 @@ I'm a full-stack web developer currently seeking a full-time position.
 
 Check out my sequencer project at https://simple-sequencer.onrender.com/
 
-Please note that this is an MVP and contains many bugs. 
+Please note that this is an MVP and still contains bugs. I hope you'll find something interesting in it! I'd be happy to show you around the code if you find yourself curious about it. 
 
 To-do list:
 - [x] Playback sound
