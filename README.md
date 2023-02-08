@@ -2,9 +2,9 @@
 
 ### I'm a full-stack web developer currently seeking a full-time or contract work.
 
-### Check out my sequencer project at https://simple-sequencer.onrender.com/
+### Check out my Simple Sequencer, a virtual music sequencer made with React, at https://simple-sequencer.onrender.com/
 
-### See the [repo's readme](https://github.com/mklnln/sequencer) for more information on the MVP, motivation, known bugs, etc
+### See the [Sequencers's readme](https://github.com/mklnln/sequencer) for more information on technologies used, the MVP, motivation, known bugs, etc
 
 <!--
 **mklnln/mklnln** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
