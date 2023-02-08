@@ -2,9 +2,9 @@
 
 I'm a full-stack web developer currently seeking a full-time position.
 
-Check out my sequencer project at https://simple-sequencer.onrender.com/
+### Check out my sequencer project at https://simple-sequencer.onrender.com/
 
-Read on to hear about the sequencer in detail.
+### Read on to hear about the sequencer in detail.
 
 A music sequencer plays pre-determined notes over an interval of time and uses a sort of grid to do so. Along the x-axis, there are different columns that each represent a beat, i.e. a musical slice of time. Along the y-axis, there are different rows that each represent different notes of the major scale. Click various notes and then hit the start/stop button (shortcut: s) to hear them played back. Change the sounds to different synthesizer waveforms or use the loaded samples. 
 
